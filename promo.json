@@ -2,11 +2,11 @@
   "apps": [
  
     {
-      "name": "ABC Kids Learning",
-      "packageName": "com.word.basic.education.learning.kids.fyr",
-      "targetAsin": "B0GX2QZ4QQ",
-      "storeUrl": "https://www.amazon.com/ABC-Kids-Learning-Trace-Letters/dp/B0GX2QZ4QQ",
-      "rewardedVideoURL": "https://files.catbox.moe/wfb84k.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
     },
   
     {
