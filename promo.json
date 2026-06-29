@@ -17,11 +17,11 @@
       "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
     {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/senlcx.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
     },
      {
       "name": "Midnight Car Racing",
@@ -45,19 +45,19 @@
       "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
     },
     {
-      "name": "ABC Kids Learning",
-      "packageName": "com.word.basic.education.learning.kids.fyr",
-      "targetAsin": "B0GX2QZ4QQ",
-      "storeUrl": "https://www.amazon.com/ABC-Kids-Learning-Trace-Letters/dp/B0GX2QZ4QQ",
-      "rewardedVideoURL": "https://files.catbox.moe/2wxo53.mp4"
+      "name": "Dino Hunting",
+      "packageName": "com.dino.family.simulator.hunt",
+      "targetAsin": "B0GHNNSRLC",
+      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
+      "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
     },
   
     {
-      "name": "ABC Kids Learning",
-      "packageName": "com.word.basic.education.learning.kids.fyr",
-      "targetAsin": "B0GX2QZ4QQ",
-      "storeUrl": "https://www.amazon.com/ABC-Kids-Learning-Trace-Letters/dp/B0GX2QZ4QQ",
-      "rewardedVideoURL": "https://files.catbox.moe/2yio6h.mp4"
+      "name": "Dino Hunting",
+      "packageName": "com.dino.family.simulator.hunt",
+      "targetAsin": "B0GHNNSRLC",
+      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
+      "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
     },
     {
       "name": "Dino Hunting",
