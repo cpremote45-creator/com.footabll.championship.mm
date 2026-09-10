@@ -23,21 +23,7 @@
       "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
     },
   
-    {
-      "name": "Police Dog",
-      "packageName": "com.police.dog.chase.dts",
-      "targetAsin": "B0HF4S8VLB",
-      "storeUrl": "https://www.amazon.com/OL-Games-Police-Dog-Chase/dp/B0HF4S8VLB",
-      "rewardedVideoURL": "https://files.catbox.moe/8ttruj.mp4"
-    },
-    {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
-    },
-  
+       
     {
       "name": "Midnight Car Racing",
       "packageName": "com.car.racing.midnight.dts",
@@ -52,85 +38,7 @@
       "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
       "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
-  
-    {
-      "name": "KeyBoard escape Argon",
-      "packageName": "com.arg.airplane.flight.game",
-      "targetAsin": "B0GPDB7Z5K",
-      "storeUrl": "https://www.amazon.com/Airplane-Flight-Simulator-Pilot-Adventure/dp/B0GPDB7Z5K",
-      "rewardedVideoURL": "https://files.catbox.moe/sss87h.mp4"
-    },
-    {
-      "name": "KeyBoard escape Argon",
-      "packageName": "com.arg.airplane.flight.game",
-      "targetAsin": "B0GPDB7Z5K",
-      "storeUrl": "https://www.amazon.com/Airplane-Flight-Simulator-Pilot-Adventure/dp/B0GPDB7Z5K",
-      "rewardedVideoURL": "https://files.catbox.moe/qo641n.mp4"
-    },
-     {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
-    },
-    {
-      "name": "AirPlane Simulator",
-      "packageName": "com.ikk.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
-      "rewardedVideoURL": "https://files.catbox.moe/3750me.mp4"
-    },
-  {
-      "name": "Midnight Car Racing",
-      "packageName": "com.car.racing.midnight.dts",
-      "targetAsin": "B0GX34M692",
-      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
-      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
-    },
-    {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
-    },
-  
-    {
-      "name": "Midnight Car Racing",
-      "packageName": "com.car.racing.midnight.dts",
-      "targetAsin": "B0GX34M692",
-      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
-      "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
-    },
-    {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
-    },
-     {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
-    },
-    {
-      "name": "AirPlane Simulator",
-      "packageName": "com.ikk.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
-      "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
-    },
-  {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/zapmbp.mp4"
-    },
+     
  
   {
       "name": "Dino Hunting",
