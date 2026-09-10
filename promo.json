@@ -22,7 +22,13 @@
       "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
       "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
     },
-  
+  {
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
        
     {
       "name": "Midnight Car Racing",
