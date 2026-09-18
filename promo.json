@@ -2,25 +2,34 @@
   "apps": [
  
     {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/zapmbp.mp4"
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/zcva2x.mp4"
     },
     {
-      "name": "Police Dog",
-      "packageName": "com.police.dog.chase.dts",
-      "targetAsin": "B0HF4S8VLB",
-      "storeUrl": "https://www.amazon.com/OL-Games-Police-Dog-Chase/dp/B0HF4S8VLB",
-      "rewardedVideoURL": "https://files.catbox.moe/z6lhm9.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/cmpiz7.mp4"
     },
+  
     {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/zcva2x.mp4"
+    },
+    
+    {
+      "name": "Car Racing",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/zcva2x.mp4"
     },
   {
       "name": "Car Racing",
