@@ -2,11 +2,11 @@
   "apps": [
  
     {
-      "name": "Weeding Dress Makeup",
-      "packageName": "com.mm.wedding.salon.bridal.makeup.girls.games",
-      "targetAsin": "B07FLD5PS4",
-      "storeUrl": "https://www.amazon.com/Bridal-Makeup-Prince-Wedding-Fashion/dp/B07FLD5PS4",
-      "rewardedVideoURL": "https://files.catbox.moe/xa1ohy.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/zcva2x.mp4"
     },
     {
       "name": "Weeding Dress Makeup",
