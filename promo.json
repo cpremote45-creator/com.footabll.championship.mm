@@ -16,6 +16,13 @@
       "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
     },
     {
+      "name": "Fashion Queen",
+      "packageName": "com.mm.wedding.salon.bridal.makeup.girls.games",
+      "targetAsin": "B07FLD5PS4",
+      "storeUrl": "https://www.amazon.com/Beauty-Dress-Lucky-Runner-Change/dp/B07FLD5PS4",
+      "rewardedVideoURL": "https://res.cloudinary.com/dabvtnnc/video/upload/v1794827410/V2.mp4"
+    },
+    {
       "name": "Street Gangster OL",
       "packageName": "com.gangster.crime.game.rog",
       "targetAsin": "B0FY8FFCZR",
